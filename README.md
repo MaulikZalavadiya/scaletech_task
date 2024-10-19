@@ -88,7 +88,7 @@ In order to achieve all of these results, it is necessary to send the **_Authori
   * Module Check ```http://127.0.0.1:8000/user/users/check_access/?module=user```
 
 * [Multiple User Update](#multipleuserupdate)
-  * Module Check ```http://127.0.0.1:8000/user/users/user_update/```
+  * Multiple User Update ```http://127.0.0.1:8000/user/users/user_update/```
 
   
 
